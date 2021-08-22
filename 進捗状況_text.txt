@@ -1,0 +1,5 @@
+TrailheadとTrailblazer Community
+Trailhead Playgroundの管理
+Salesforce Platformの基礎
+Salesforce CRM
+Sales Cloudの基本
